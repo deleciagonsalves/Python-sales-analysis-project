@@ -14,9 +14,6 @@ Simulated monthly sales for 4 product categories (Jan 2024 to Dec 2025), generat
 ## How to run
 Open `Python_Sales_Inflation_Analysis.ipynb` in Google Colab and click Runtime > Run all.
 
-## Key findings
-*(Write 2-3 findings in your own words after running the notebook, e.g. nominal growth vs real growth.)*
-
 ## Future improvements
 Use real CPI data from MoSPI, and real sales or retail data.
 
